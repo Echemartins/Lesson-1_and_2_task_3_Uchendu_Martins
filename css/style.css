@@ -50,3 +50,8 @@ table {
 
 
 /* Write your css below here */
+
+body {
+	background-color: blue;
+	height: auto;
+}
